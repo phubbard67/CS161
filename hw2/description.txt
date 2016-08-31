@@ -1,0 +1,4 @@
+//My name: Paul Hubbard
+//My group member: Ben Portis
+//OS used: Linux
+//Development Toolchain: vim/g++
