@@ -1,0 +1,4 @@
+//Paul Hubbard G03633408
+//Member of group: Ben Portis
+//OS: Linux 
+//Text editor/compiler vim/g++
