@@ -1,0 +1,22 @@
+//Homework 1 help
+
+#include "main.h"
+using namespace std;
+int main(int argc, char **argv) {
+	int varA = 0;
+	float varB = 0.0;
+	string varC = "hello world";
+	long int varD = 0;
+	short int varE = 0;
+	long double varF = 0;
+
+	cout << "Enter int value: ";       // asks user for input
+	cin >> varA;                       // stores input into varA.
+
+	cout << numeric_limits<long int>::max() << endl; //shows the max size of a var (long int) available
+	cout << varA << endl; //shows contents of var
+	cout << &varA << endl; //shows address of var
+	cout << sizeof(varA) << endl; //shows the size of var in bytes
+
+	return 0;
+}

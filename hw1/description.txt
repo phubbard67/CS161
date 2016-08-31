@@ -1,0 +1,5 @@
+//My name: Paul Hubbard
+//Person in my group: Ben Portis
+//OS used: Linux
+//Text editor and Compiler: vim/g++
+
